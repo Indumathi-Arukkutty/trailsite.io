@@ -2,7 +2,7 @@
     "name": "your-ecommerce-app",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://<your-github-username>.github.io/<your-repo-name>",  //  Change this
+    "homepage": "https://indumathi-arukkutty.github.io/trailsite.io/",  //  Change this
 
     "dependencies": {
         "@testing-library/jest-dom": "^5.17.0",
